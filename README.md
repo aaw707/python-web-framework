@@ -15,3 +15,7 @@ To run the server:
 Username `angel`
 
 Password `123`
+
+In order to manage models go to `/admin`
+
+Uploading sales data from `.csv` only takes product items that are already registered in the system. It creates new customers automatically, though.
