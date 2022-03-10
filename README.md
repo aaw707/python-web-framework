@@ -10,4 +10,4 @@ Install the packages:
 
 To run the server: 
 
-`$ python manage.py runserver`
+`$ python src/manage.py runserver`
