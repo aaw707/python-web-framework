@@ -11,3 +11,7 @@ Install the packages:
 To run the server: 
 
 `$ python src/manage.py runserver`
+
+Username `angel`
+
+Password `123`
